@@ -4,8 +4,10 @@ SMZ Education Website: https://smzedu.com/home/
 
 ## Current Projects
 
-- **Shiloh Academie, Gandigal-Est, Senegal**: Development and maintenance of a custom website to enhance local educational outreach and resource distribution.
-- **E.V.A École, Dakar, Senegal**: Exploring collaboration opportunities to set up a digital platform that meets the specific needs of the local school community.
+- **Shiloh Academie, Gandigal-Est, Senegal**: Development and maintenance of a custom website to enhance local educational outreach and resource distribution. [Website]([https://shilohacademie.smzedu.com/home/])
+- **E.V.A École, Dakar, Senegal**: Exploring collaboration opportunities to set up a digital platform that meets the specific needs of the local school community. [Website]([https://evaschooldakar.smzedu.com/home/])
+- **St. K Michael's School, Accra, Ghana**: Designed and developed a modern website to showcase the school's mission, achievements, and educational resources, while improving accessibility and user experience. [Website]([https://st-k-michaels-school.smzedu.com/home/])
+- **Serrekunda Lower Basic School, Serrekunda, The Gambia**: Partnered to create a digital platform aimed at streamlining communication and providing better access to educational materials for students and parents. Website in Development
 
 ## How We Work
 
